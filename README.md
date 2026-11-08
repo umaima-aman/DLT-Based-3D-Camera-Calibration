@@ -1,6 +1,6 @@
 # Camera Calibration and 3D Camera Position Estimation Using Direct Linear Transform (DLT)
 
-This project focuses on **Camera Calibration and 3D Camera Position Estimation using the Direct Linear Transform (DLT) method** as part of a Computer Vision assignment.
+This project focuses on **Camera Calibration and 3D Camera Position Estimation using the Direct Linear Transform (DLT) method**.
 The objective was to estimate camera parameters using a real-world scene, specifically a corner of a room consisting of two walls and a floor.
 
 ## Problem Description
